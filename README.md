@@ -8,6 +8,7 @@
  - pip3 install pipenv
  - pipenv install (to install dependency from Pipfile)
  - pipenv shell (to access virtual env)
+ - pipenv install python-dotenv (to staore API secret key without having to hard code in the program) 
 
  Run program 
 
